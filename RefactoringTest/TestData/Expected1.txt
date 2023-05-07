@@ -1,0 +1,6 @@
+Statement for BigCo
+  Hamlet: 650,00 kr. (55 seats)
+  As You Like It: 580,00 kr. (35 seats)
+  Othello: 500,00 kr. (40 seats)
+Amount owed is 1.730,00 kr.
+You earned 47 credits
